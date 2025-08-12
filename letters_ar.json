@@ -1,0 +1,20 @@
+[
+  {
+    "id": "alef",
+    "char": "أ",
+    "word": "أسد",
+    "image": "assets/images/lion.png"
+  },
+  {
+    "id": "ba",
+    "char": "ب",
+    "word": "بطة",
+    "image": "assets/images/duck.png"
+  },
+  {
+    "id": "ta",
+    "char": "ت",
+    "word": "تفاحة",
+    "image": "assets/images/apple.png"
+  }
+]

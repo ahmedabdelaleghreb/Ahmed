@@ -1,0 +1,20 @@
+[
+  {
+    "id": "lion",
+    "name_ar": "أسد",
+    "name_en": "Lion",
+    "image": "assets/images/lion.png"
+  },
+  {
+    "id": "duck",
+    "name_ar": "بطة",
+    "name_en": "Duck",
+    "image": "assets/images/duck.png"
+  },
+  {
+    "id": "apple",
+    "name_ar": "تفاحة",
+    "name_en": "Apple",
+    "image": "assets/images/apple.png"
+  }
+]
