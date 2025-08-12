@@ -1,0 +1,23 @@
+[
+  {
+    "id": "lion",
+    "name_ar": "أسد",
+    "name_en": "Lion",
+    "image": "./assets/images/lion.png",
+    "audio": "./assets/audio/lion.wav"
+  },
+  {
+    "id": "duck",
+    "name_ar": "بطة",
+    "name_en": "Duck",
+    "image": "./assets/images/duck.png",
+    "audio": "./assets/audio/duck.wav"
+  },
+  {
+    "id": "apple",
+    "name_ar": "تفاحة",
+    "name_en": "Apple",
+    "image": "./assets/images/apple.png",
+    "audio": "./assets/audio/apple.wav"
+  }
+]
