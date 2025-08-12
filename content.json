@@ -1,0 +1,450 @@
+{
+  "letters_ar": [
+    {
+      "id": "ا",
+      "display": "ا",
+      "word": "أسد",
+      "image": "assets/images/ar/أسد.jpg",
+      "audio": "assets/audio/ar/ا.mp3"
+    },
+    {
+      "id": "ب",
+      "display": "ب",
+      "word": "بقرة",
+      "image": "assets/images/ar/بقرة.jpg",
+      "audio": "assets/audio/ar/ب.mp3"
+    },
+    {
+      "id": "ت",
+      "display": "ت",
+      "word": "تفاح",
+      "image": "assets/images/ar/تفاح.jpg",
+      "audio": "assets/audio/ar/ت.mp3"
+    },
+    {
+      "id": "ث",
+      "display": "ث",
+      "word": "ثعلب",
+      "image": "assets/images/ar/ثعلب.jpg",
+      "audio": "assets/audio/ar/ث.mp3"
+    },
+    {
+      "id": "ج",
+      "display": "ج",
+      "word": "جمل",
+      "image": "assets/images/ar/جمل.jpg",
+      "audio": "assets/audio/ar/ج.mp3"
+    },
+    {
+      "id": "ح",
+      "display": "ح",
+      "word": "حصان",
+      "image": "assets/images/ar/حصان.jpg",
+      "audio": "assets/audio/ar/ح.mp3"
+    },
+    {
+      "id": "خ",
+      "display": "خ",
+      "word": "خبز",
+      "image": "assets/images/ar/خبز.jpg",
+      "audio": "assets/audio/ar/خ.mp3"
+    },
+    {
+      "id": "د",
+      "display": "د",
+      "word": "دب",
+      "image": "assets/images/ar/دب.jpg",
+      "audio": "assets/audio/ar/د.mp3"
+    },
+    {
+      "id": "ذ",
+      "display": "ذ",
+      "word": "ذئب",
+      "image": "assets/images/ar/ذئب.jpg",
+      "audio": "assets/audio/ar/ذ.mp3"
+    },
+    {
+      "id": "ر",
+      "display": "ر",
+      "word": "رمان",
+      "image": "assets/images/ar/رمان.jpg",
+      "audio": "assets/audio/ar/ر.mp3"
+    },
+    {
+      "id": "ز",
+      "display": "ز",
+      "word": "زرافة",
+      "image": "assets/images/ar/زرافة.jpg",
+      "audio": "assets/audio/ar/ز.mp3"
+    },
+    {
+      "id": "س",
+      "display": "س",
+      "word": "سمكة",
+      "image": "assets/images/ar/سمكة.jpg",
+      "audio": "assets/audio/ar/س.mp3"
+    },
+    {
+      "id": "ش",
+      "display": "ش",
+      "word": "شمس",
+      "image": "assets/images/ar/شمس.jpg",
+      "audio": "assets/audio/ar/ش.mp3"
+    },
+    {
+      "id": "ص",
+      "display": "ص",
+      "word": "صقر",
+      "image": "assets/images/ar/صقر.jpg",
+      "audio": "assets/audio/ar/ص.mp3"
+    },
+    {
+      "id": "ض",
+      "display": "ض",
+      "word": "ضفدع",
+      "image": "assets/images/ar/ضفدع.jpg",
+      "audio": "assets/audio/ar/ض.mp3"
+    },
+    {
+      "id": "ط",
+      "display": "ط",
+      "word": "طائر",
+      "image": "assets/images/ar/طائر.jpg",
+      "audio": "assets/audio/ar/ط.mp3"
+    },
+    {
+      "id": "ظ",
+      "display": "ظ",
+      "word": "ظبي",
+      "image": "assets/images/ar/ظبي.jpg",
+      "audio": "assets/audio/ar/ظ.mp3"
+    },
+    {
+      "id": "ع",
+      "display": "ع",
+      "word": "عصفور",
+      "image": "assets/images/ar/عصفور.jpg",
+      "audio": "assets/audio/ar/ع.mp3"
+    },
+    {
+      "id": "غ",
+      "display": "غ",
+      "word": "غزال",
+      "image": "assets/images/ar/غزال.jpg",
+      "audio": "assets/audio/ar/غ.mp3"
+    },
+    {
+      "id": "ف",
+      "display": "ف",
+      "word": "فيل",
+      "image": "assets/images/ar/فيل.jpg",
+      "audio": "assets/audio/ar/ف.mp3"
+    },
+    {
+      "id": "ق",
+      "display": "ق",
+      "word": "قطة",
+      "image": "assets/images/ar/قطة.jpg",
+      "audio": "assets/audio/ar/ق.mp3"
+    },
+    {
+      "id": "ك",
+      "display": "ك",
+      "word": "كتاب",
+      "image": "assets/images/ar/كتاب.jpg",
+      "audio": "assets/audio/ar/ك.mp3"
+    },
+    {
+      "id": "ل",
+      "display": "ل",
+      "word": "ليمون",
+      "image": "assets/images/ar/ليمون.jpg",
+      "audio": "assets/audio/ar/ل.mp3"
+    },
+    {
+      "id": "م",
+      "display": "م",
+      "word": "موز",
+      "image": "assets/images/ar/موز.jpg",
+      "audio": "assets/audio/ar/م.mp3"
+    },
+    {
+      "id": "ن",
+      "display": "ن",
+      "word": "نحلة",
+      "image": "assets/images/ar/نحلة.jpg",
+      "audio": "assets/audio/ar/ن.mp3"
+    },
+    {
+      "id": "ه",
+      "display": "ه",
+      "word": "هاتف",
+      "image": "assets/images/ar/هاتف.jpg",
+      "audio": "assets/audio/ar/ه.mp3"
+    },
+    {
+      "id": "و",
+      "display": "و",
+      "word": "وردة",
+      "image": "assets/images/ar/وردة.jpg",
+      "audio": "assets/audio/ar/و.mp3"
+    },
+    {
+      "id": "ي",
+      "display": "ي",
+      "word": "يد",
+      "image": "assets/images/ar/يد.jpg",
+      "audio": "assets/audio/ar/ي.mp3"
+    }
+  ],
+  "numbers": [
+    {
+      "id": "0",
+      "display": "0",
+      "image": "assets/images/numbers/0.jpg",
+      "audio": "assets/audio/ar/0.mp3"
+    },
+    {
+      "id": "1",
+      "display": "1",
+      "image": "assets/images/numbers/1.jpg",
+      "audio": "assets/audio/ar/1.mp3"
+    },
+    {
+      "id": "2",
+      "display": "2",
+      "image": "assets/images/numbers/2.jpg",
+      "audio": "assets/audio/ar/2.mp3"
+    },
+    {
+      "id": "3",
+      "display": "3",
+      "image": "assets/images/numbers/3.jpg",
+      "audio": "assets/audio/ar/3.mp3"
+    },
+    {
+      "id": "4",
+      "display": "4",
+      "image": "assets/images/numbers/4.jpg",
+      "audio": "assets/audio/ar/4.mp3"
+    },
+    {
+      "id": "5",
+      "display": "5",
+      "image": "assets/images/numbers/5.jpg",
+      "audio": "assets/audio/ar/5.mp3"
+    },
+    {
+      "id": "6",
+      "display": "6",
+      "image": "assets/images/numbers/6.jpg",
+      "audio": "assets/audio/ar/6.mp3"
+    },
+    {
+      "id": "7",
+      "display": "7",
+      "image": "assets/images/numbers/7.jpg",
+      "audio": "assets/audio/ar/7.mp3"
+    },
+    {
+      "id": "8",
+      "display": "8",
+      "image": "assets/images/numbers/8.jpg",
+      "audio": "assets/audio/ar/8.mp3"
+    },
+    {
+      "id": "9",
+      "display": "9",
+      "image": "assets/images/numbers/9.jpg",
+      "audio": "assets/audio/ar/9.mp3"
+    },
+    {
+      "id": "10",
+      "display": "10",
+      "image": "assets/images/numbers/10.jpg",
+      "audio": "assets/audio/ar/10.mp3"
+    }
+  ],
+  "animals": [
+    {
+      "id": "lion",
+      "name_ar": "أسد",
+      "image": "assets/images/animals/lion.jpg",
+      "audio": "assets/audio/animals/lion.mp3"
+    },
+    {
+      "id": "elephant",
+      "name_ar": "فيل",
+      "image": "assets/images/animals/elephant.jpg",
+      "audio": "assets/audio/animals/elephant.mp3"
+    },
+    {
+      "id": "horse",
+      "name_ar": "حصان",
+      "image": "assets/images/animals/horse.jpg",
+      "audio": "assets/audio/animals/horse.mp3"
+    },
+    {
+      "id": "cow",
+      "name_ar": "بقرة",
+      "image": "assets/images/animals/cow.jpg",
+      "audio": "assets/audio/animals/cow.mp3"
+    },
+    {
+      "id": "sheep",
+      "name_ar": "خروف",
+      "image": "assets/images/animals/sheep.jpg",
+      "audio": "assets/audio/animals/sheep.mp3"
+    },
+    {
+      "id": "goat",
+      "name_ar": "ماعز",
+      "image": "assets/images/animals/goat.jpg",
+      "audio": "assets/audio/animals/goat.mp3"
+    },
+    {
+      "id": "dog",
+      "name_ar": "كلب",
+      "image": "assets/images/animals/dog.jpg",
+      "audio": "assets/audio/animals/dog.mp3"
+    },
+    {
+      "id": "cat",
+      "name_ar": "قطة",
+      "image": "assets/images/animals/cat.jpg",
+      "audio": "assets/audio/animals/cat.mp3"
+    },
+    {
+      "id": "tiger",
+      "name_ar": "نمر",
+      "image": "assets/images/animals/tiger.jpg",
+      "audio": "assets/audio/animals/tiger.mp3"
+    },
+    {
+      "id": "zebra",
+      "name_ar": "حمار وحشي",
+      "image": "assets/images/animals/zebra.jpg",
+      "audio": "assets/audio/animals/zebra.mp3"
+    },
+    {
+      "id": "giraffe",
+      "name_ar": "زرافة",
+      "image": "assets/images/animals/giraffe.jpg",
+      "audio": "assets/audio/animals/giraffe.mp3"
+    },
+    {
+      "id": "camel",
+      "name_ar": "جمل",
+      "image": "assets/images/animals/camel.jpg",
+      "audio": "assets/audio/animals/camel.mp3"
+    },
+    {
+      "id": "donkey",
+      "name_ar": "حمار",
+      "image": "assets/images/animals/donkey.jpg",
+      "audio": "assets/audio/animals/donkey.mp3"
+    },
+    {
+      "id": "rabbit",
+      "name_ar": "أرنب",
+      "image": "assets/images/animals/rabbit.jpg",
+      "audio": "assets/audio/animals/rabbit.mp3"
+    },
+    {
+      "id": "mouse",
+      "name_ar": "فأر",
+      "image": "assets/images/animals/mouse.jpg",
+      "audio": "assets/audio/animals/mouse.mp3"
+    },
+    {
+      "id": "monkey",
+      "name_ar": "قرد",
+      "image": "assets/images/animals/monkey.jpg",
+      "audio": "assets/audio/animals/monkey.mp3"
+    },
+    {
+      "id": "bear",
+      "name_ar": "دب",
+      "image": "assets/images/animals/bear.jpg",
+      "audio": "assets/audio/animals/bear.mp3"
+    },
+    {
+      "id": "fox",
+      "name_ar": "ثعلب",
+      "image": "assets/images/animals/fox.jpg",
+      "audio": "assets/audio/animals/fox.mp3"
+    },
+    {
+      "id": "wolf",
+      "name_ar": "ذئب",
+      "image": "assets/images/animals/wolf.jpg",
+      "audio": "assets/audio/animals/wolf.mp3"
+    },
+    {
+      "id": "dolphin",
+      "name_ar": "دولفين",
+      "image": "assets/images/animals/dolphin.jpg",
+      "audio": "assets/audio/animals/dolphin.mp3"
+    },
+    {
+      "id": "whale",
+      "name_ar": "حوت",
+      "image": "assets/images/animals/whale.jpg",
+      "audio": "assets/audio/animals/whale.mp3"
+    },
+    {
+      "id": "shark",
+      "name_ar": "قرش",
+      "image": "assets/images/animals/shark.jpg",
+      "audio": "assets/audio/animals/shark.mp3"
+    },
+    {
+      "id": "fish",
+      "name_ar": "سمكة",
+      "image": "assets/images/animals/fish.jpg",
+      "audio": "assets/audio/animals/fish.mp3"
+    },
+    {
+      "id": "bird",
+      "name_ar": "طائر",
+      "image": "assets/images/animals/bird.jpg",
+      "audio": "assets/audio/animals/bird.mp3"
+    },
+    {
+      "id": "penguin",
+      "name_ar": "بطريق",
+      "image": "assets/images/animals/penguin.jpg",
+      "audio": "assets/audio/animals/penguin.mp3"
+    },
+    {
+      "id": "kangaroo",
+      "name_ar": "كنغر",
+      "image": "assets/images/animals/kangaroo.jpg",
+      "audio": "assets/audio/animals/kangaroo.mp3"
+    },
+    {
+      "id": "frog",
+      "name_ar": "ضفدع",
+      "image": "assets/images/animals/frog.jpg",
+      "audio": "assets/audio/animals/frog.mp3"
+    },
+    {
+      "id": "bee",
+      "name_ar": "نحلة",
+      "image": "assets/images/animals/bee.jpg",
+      "audio": "assets/audio/animals/bee.mp3"
+    },
+    {
+      "id": "butterfly",
+      "name_ar": "فراشة",
+      "image": "assets/images/animals/butterfly.jpg",
+      "audio": "assets/audio/animals/butterfly.mp3"
+    },
+    {
+      "id": "crocodile",
+      "name_ar": "تمساح",
+      "image": "assets/images/animals/crocodile.jpg",
+      "audio": "assets/audio/animals/crocodile.mp3"
+    }
+  ]
+}
