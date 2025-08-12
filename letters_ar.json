@@ -3,18 +3,21 @@
     "id": "alef",
     "char": "أ",
     "word": "أسد",
-    "image": "assets/images/lion.png"
+    "image": "assets/images/lion.png",
+    "audio": "assets/audio/ar/alef_asad_eg.wav"
   },
   {
     "id": "ba",
     "char": "ب",
     "word": "بطة",
-    "image": "assets/images/duck.png"
+    "image": "assets/images/duck.png",
+    "audio": "assets/audio/ar/ba_batta_eg.wav"
   },
   {
     "id": "ta",
     "char": "ت",
     "word": "تفاحة",
-    "image": "assets/images/apple.png"
+    "image": "assets/images/apple.png",
+    "audio": "assets/audio/ar/ta_tuffaha_eg.wav"
   }
 ]
